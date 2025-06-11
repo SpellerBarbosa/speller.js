@@ -1,4 +1,4 @@
-class spLabelInput extends HTMLElement{
+class labelInput extends HTMLElement{
     connectedCallback(){
         const name = this.getAttribute('sp-name');
         const labelText = this.getAttribute('sp-label');
@@ -69,4 +69,4 @@ class spLabelInput extends HTMLElement{
     }
 }
 
-customElements.define('label-input', spLabelInput)
+customElements.define('label-input', labelInput)
