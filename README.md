@@ -136,4 +136,4 @@ p {
 
 ## 📄 Licença
 
-MIT © [Seu Nome ou Nick](https://github.com/SpellerBarbosa)
+MIT © [Fernando Barbosa/Speller](https://github.com/SpellerBarbosa)
